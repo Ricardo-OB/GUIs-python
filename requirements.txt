@@ -1,0 +1,7 @@
+tk
+numpy
+Pillow
+opencv-python
+scikit-image
+PyQt5
+matplotlib
